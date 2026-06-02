@@ -20,6 +20,10 @@ Projeto desenvolvido em Python com o objetivo de realizar a conversão de valore
 * Formatação de strings com `f-strings`.
 * Arredondamento de valores utilizando `round()`.
 
+ ![imagemdoprojeto](<img width="368" height="81" alt="image" src="https://github.com/user-attachments/assets/17545851-59b4-4a87-9828-958e92e94a4c" />)
+
+
+
 ## 🛠️ Tecnologias Utilizadas
 
 * Python
